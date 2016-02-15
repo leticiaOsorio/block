@@ -1,0 +1,7 @@
+c:\users\juan elias\documents\visual studio 2010\Projects\block\block\bin\Debug\block.exe
+c:\users\juan elias\documents\visual studio 2010\Projects\block\block\bin\Debug\block.pdb
+c:\users\juan elias\documents\visual studio 2010\Projects\block\block\obj\x86\Debug\block.Form1.resources
+c:\users\juan elias\documents\visual studio 2010\Projects\block\block\obj\x86\Debug\block.Properties.Resources.resources
+c:\users\juan elias\documents\visual studio 2010\Projects\block\block\obj\x86\Debug\block.csproj.GenerateResource.Cache
+c:\users\juan elias\documents\visual studio 2010\Projects\block\block\obj\x86\Debug\block.exe
+c:\users\juan elias\documents\visual studio 2010\Projects\block\block\obj\x86\Debug\block.pdb
